@@ -8,5 +8,4 @@ The following is an inventory of data sets around the Natural Language Processin
  Type | Name | Link
 ----- | --- | ---
 QA | SQuAD2.0 - The Stanford Question Answering Dataset | https://rajpurkar.github.io/SQuAD-explorer/ 
-QG | Question Generation Shared Task & Evaluation Challenge (QGSTEC) 2010 - 
-Generating Questions from Sentences | https://github.com/bjwyse/QGSTEC2010
+QG | Question Generation Shared Task & Evaluation Challenge (QGSTEC) 2010 - Generating Questions from Sentences | https://github.com/bjwyse/QGSTEC2010
