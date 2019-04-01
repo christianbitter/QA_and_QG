@@ -11,11 +11,13 @@ QA | Question-Answer Dataset | http://www.cs.cmu.edu/~ark/QA-data/
 QA | A Corpus for Complex Question Answering over Knowledge Graphs | http://sda.cs.uni-bonn.de/projects/qa-dataset/ 
 QA | WebQuestions | https://nlp.stanford.edu/software/sempre/ 
 QG | Question Generation Shared Task & Evaluation Challenge (QGSTEC) 2010 - Generating Questions from Sentences | https://github.com/bjwyse/QGSTEC2010 
+QA | RecipeQA - A Dataset for Multimodal Comprehension of Cooking Recipes | https://hucvl.github.io/recipeqa/
 &ndash; | Cornell Movie--Dialogs Corpus | https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html 
 &ndash; | Ubuntu Dialogue Corpus v2.0 | https://github.com/rkadlec/ubuntu-ranking-dataset-creator
 &ndash; | OSU Twitter NLP Tools | https://github.com/aritter/twitter_nlp 
 NLG | WeatherGov | https://cs.stanford.edu/~pliang/data/weather-data.zip 
 NLG | Boxscore-Data | https://github.com/harvardnlp/boxscore-data
 NLG | WebNLG 2017 Challenge Data | http://webnlg.loria.fr/pages/challenge.html 
-NLG | Wikipedia-biography-dataset | https://github.com/DavidGrangier/wikipedia-biography-dataset
-NLG | RNNLG | https://github.com/shawnwun/RNNLG
+NLG | Wikipedia-biography-dataset | https://github.com/DavidGrangier/wikipedia-biography-dataset 
+NLG | RNNLG | https://github.com/shawnwun/RNNLG 
+NLG | ACL-Overview | https://aclweb.org/aclwiki/Data_sets_for_NLG
